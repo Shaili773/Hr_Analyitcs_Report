@@ -1,3 +1,4 @@
+<img width="469" alt="image" src="https://github.com/Shaili773/Hr_Analyitcs_Report/assets/71250299/96fa1435-68b1-483b-b675-a84b2ca25555">
 Findings 
 
 -There are more male employees
